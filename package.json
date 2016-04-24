@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4",
-    "pg-promise": "^3.9.1"
+    "express-oauth-server": "^1.0.0"
   }
 }
