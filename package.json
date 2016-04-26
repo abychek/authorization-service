@@ -11,5 +11,8 @@
   "dependencies": {
     "express": "^4.13.4",
     "pg-promise": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-babel": "^6.1.2"
   }
 }
